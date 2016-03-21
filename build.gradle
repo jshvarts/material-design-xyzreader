@@ -1,0 +1,31 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+allprojects {
+    repositories {
+        jcenter()
+
+        mavenCentral()
+    }
+}
+
+buildscript {
+    repositories {
+        jcenter()
+
+        maven {
+            url 'https://maven.fabric.io/public'
+        }
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.5.0'
+
+        /*
+         * The android-apt plugin assists in working with annotation processors in combination
+         * with Android Studio.
+         *
+         * Reference: https://bitbucket.org/hvisser/android-apt
+         */
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+    }
+}
+
