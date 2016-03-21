@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shvartsy/git/xyzreader/app/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/shvartsy/git/xyzreader/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_0109313d18fe77c8d999de105a9873898306effd.jar" />
+    </item>
+    <item
+        jar="/Users/shvartsy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/shvartsy/git/xyzreader/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_8e7cf4cfcced41a0ecc3a5db406f02d90c5049d3.jar" />
+    </item>
+    <item
+        jar="/Users/shvartsy/git/xyzreader/app/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/shvartsy/git/xyzreader/app/build/intermediates/pre-dexed/debug/com.android.support-support-v13-22.0.0_4649f3c9c105a244c2c04ed5fe1e6a423530f2f9.jar" />
+    </item>
+    <item
+        jar="/Users/shvartsy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/shvartsy/git/xyzreader/app/build/intermediates/pre-dexed/debug/okio-1.6.0_5dbc9e05ae251f31c66e6fa52839dfb4499e90f4.jar" />
+    </item>
+    <item
+        jar="/Users/shvartsy/git/xyzreader/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/shvartsy/git/xyzreader/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.0.0_b50cd60f5a07e069bb7432671b7602f4654a92cd.jar" />
+    </item>
+    <item
+        jar="/Users/shvartsy/git/xyzreader/app/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/shvartsy/git/xyzreader/app/build/intermediates/pre-dexed/debug/volley_3a5110686e1f546ab998f70becf26694589aa5d4.jar" />
+    </item>
+    <item
+        jar="/Users/shvartsy/git/xyzreader/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/shvartsy/git/xyzreader/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.0.0_9ad3dbf07cd48c66c98c3a7982724617e3fa9086.jar" />
+    </item>
+    <item
+        jar="/Users/shvartsy/git/xyzreader/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/shvartsy/git/xyzreader/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_25fcf7decbdc090e2d6f588f036aa6057a93fe82.jar" />
+    </item>
+    <item
+        jar="/Users/shvartsy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/shvartsy/git/xyzreader/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0_ed8c91565932bc30d3f4c050f807c6678af17913.jar" />
+    </item>
+    <item
+        jar="/Users/shvartsy/git/xyzreader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/shvartsy/git/xyzreader/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.0.0_9e443b182fa38b26cd96c17c718ec7bc24fa996c.jar" />
+    </item>
+    <item
+        jar="/Users/shvartsy/git/xyzreader/app/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/shvartsy/git/xyzreader/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-22.0.0_c78266df5380a26993cd62e5a01021f78a5ba352.jar" />
+    </item>
+    <item
+        jar="/Users/shvartsy/git/xyzreader/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/shvartsy/git/xyzreader/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.0.0_c70dc7d28a7c9331733c39ee7dd8f8d79700e9eb.jar" />
+    </item>
+
+</items>
