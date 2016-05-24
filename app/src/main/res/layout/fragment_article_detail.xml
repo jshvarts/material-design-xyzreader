@@ -14,11 +14,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
-            <ImageView
-                android:id="@+id/photo"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:scaleType="fitXY" />
+            <include layout="@layout/detail_header_image" />
 
             <com.example.xyzreader.ui.MaxWidthLinearLayout
                 android:orientation="vertical"
