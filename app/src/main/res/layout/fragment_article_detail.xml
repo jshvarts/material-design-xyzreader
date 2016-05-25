@@ -82,10 +82,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
-        android:layout_marginRight="@dimen/fab_margin"
-        android:layout_marginBottom="@dimen/fab_margin"
+        android:layout_margin="@dimen/fab_margin"
         android:src="@drawable/ic_share"
         android:elevation="@dimen/fab_elevation"
+        app:pressedTranslationZ="@dimen/fab_press_translation_z"
         app:borderWidth="0dp"
         app:fabSize="normal" />
 
