@@ -8,7 +8,7 @@
 
     <android.support.design.widget.AppBarLayout android:id="@+id/photo_container"
         android:layout_width="match_parent"
-        android:layout_height="300dp"
+        android:layout_height="200dp"
         android:elevation="8dp"
         android:fitsSystemWindows="true"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
@@ -18,10 +18,8 @@
             android:layout_height="match_parent"
             android:fitsSystemWindows="true"
             app:contentScrim="?attr/colorPrimary"
+            android:minHeight="?attr/actionBarSize"
             app:expandedTitleTextAppearance="@android:color/transparent"
-            app:expandedTitleMarginBottom="32dp"
-            app:expandedTitleMarginEnd="64dp"
-            app:expandedTitleMarginStart="48dp"
             app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
             <FrameLayout
@@ -62,11 +60,11 @@
             <android.support.v7.widget.Toolbar
                 android:id="@+id/photo"
                 android:layout_width="match_parent"
+                android:layout_marginTop="20dp"
                 android:paddingLeft="50dp"
                 android:layout_height="?attr/actionBarSize"
                 android:theme="@style/AppTheme.AppBarOverlay"
                 app:layout_collapseMode="pin"
-                android:minHeight="?attr/actionBarSize"
                 app:popupTheme="@style/AppTheme.PopupOverlay" />
 
         </android.support.design.widget.CollapsingToolbarLayout>

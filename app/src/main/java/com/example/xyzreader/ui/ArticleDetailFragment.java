@@ -170,21 +170,15 @@ public class ArticleDetailFragment extends Fragment implements
 
             mPhotoContainerView.addOnOffsetChangedListener(new AppBarLayout.OnOffsetChangedListener() {
                 int scrollRange = -1;
-                boolean isShow = false;
-
                 @Override
                 public void onOffsetChanged(AppBarLayout appBarLayout, int verticalOffset) {
                     if (scrollRange == -1) {
                         scrollRange = appBarLayout.getTotalScrollRange();
                     }
-                    Log.d(TAG, "hola scroll range:" + scrollRange + " total scroll range: " + appBarLayout.getTotalScrollRange() +
-                            " vertical offset: " + verticalOffset);
                     if (scrollRange + verticalOffset == 0) {
                         mCollapsingToolbarLayout.setTitle(mTitle);
-                        isShow = true;
-                    } else if (isShow) {
+                    } else {
                         mCollapsingToolbarLayout.setTitle("");
-                        isShow = false;
                     }
                 }
             });
