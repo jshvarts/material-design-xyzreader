@@ -20,7 +20,8 @@
             app:contentScrim="?attr/colorPrimary"
             android:minHeight="?attr/actionBarSize"
             app:expandedTitleTextAppearance="@android:color/transparent"
-            app:layout_scrollFlags="scroll|exitUntilCollapsed">
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            android:transitionName="gridExit">
 
             <FrameLayout
                 android:id="@+id/meta_bar"
